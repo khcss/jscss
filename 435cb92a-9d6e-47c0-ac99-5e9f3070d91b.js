@@ -1,0 +1,1 @@
+document.writeln("<style>.ifplayer{height:500px}@media (max-width:767px){.ifplayer{height:200px}}</style>");document.write("<iframe class='ifplayer' width='100%' src='https://play.bdcdnimg.com:8523/?url="+parent.macplay.url+"&next="+parent.macplay.nexturl+"' frameborder='0' border='0' marginwidth='0' marginheight='0' scrolling='no'  allowfullscreen='true'></iframe>");
