@@ -1,3 +1,4 @@
+document.writeln("<style>body{margin-bottom:110px !important;}</style>");
 var wap = navigator.userAgent.match(/Android|Linux|iPad|iPhone|iPod/i) != null;
 if(wap){
     (function() {
